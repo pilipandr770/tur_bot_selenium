@@ -1,0 +1,39 @@
+# Git
+.git
+.gitignore
+
+# Директории Docker
+.dockerignore
+Dockerfile
+
+# Виртуальное окружение Python
+venv/
+env/
+.venv/
+.env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+
+# Логи
+logs/
+*.log
+
+# Временные файлы базы данных SQLite
+*.db-journal
+
+# Изображения, которые будут создаваться внутри контейнера
+images/*
+debug/*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
