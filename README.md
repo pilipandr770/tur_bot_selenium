@@ -1,5 +1,7 @@
 # Tourism Website Content Automation Bot
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This system automatically scrapes travel articles from levitin.de, rewrites them using OpenAI's API, generates images based on the content, and publishes everything to a Telegram channel. The bot is designed to work autonomously, scraping new content daily and publishing it on a schedule you define.
 
 ## Features
